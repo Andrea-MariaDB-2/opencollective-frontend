@@ -109,7 +109,6 @@
   "appRejectionReason.placeholder": "Por que motivo esta solicitação está sendo rejeitada?",
   "archive.account.confirmation": "Tem certeza de que deseja arquivar {type, select, EVENT {este Evento} PROJECT {este Projeto} FUND {este Fundo} COLLECTIVE {este Collectivo} ORGANIZATION {esta Organização} other {esta conta}}?",
   "archive.modal.header": "Arquivar {name}",
-  "as": "Delete Member",
   "Attachment.Private": "Este anexo é privado",
   "AttachReceipt": "Anexar recibo faltando",
   "AttachReceiptInstructions": "Esta cobrança foi criada automaticamente a partir de suas transações com cartão de crédito e está faltando a foto e a descrição do recibo. Por favor, edite esta despesa e adicione as informações ausentes.",

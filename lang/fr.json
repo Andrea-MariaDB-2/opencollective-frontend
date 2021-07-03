@@ -109,7 +109,6 @@
   "appRejectionReason.placeholder": "Pourquoi cette demande est-elle rejetée ?",
   "archive.account.confirmation": "Êtes-vous sûr de vouloir archiver {type, select, EVENT {cet Événement} PROJECT {ce Projet} FUND {ce Fonds} COLLECTIVE {ce Collectif} ORGANIZATION {cette Organization} other {ce compte}} ?",
   "archive.modal.header": "Archiver {name}",
-  "as": "Delete Member",
   "Attachment.Private": "Cette pièce jointe est privée",
   "AttachReceipt": "Joindre un reçu manquant",
   "AttachReceiptInstructions": "This charge was automatically created from your credit card transactions and is missing its receipt photograph and description. Please edit this expense and add the missing information.",

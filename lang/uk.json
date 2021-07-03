@@ -109,7 +109,6 @@
   "appRejectionReason.placeholder": "Чому ця заявка відхиляється?",
   "archive.account.confirmation": "Ви впевнені, що хочете архівувати {type, select, EVENT {цю Подію} PROJECT {цей Проєкт} FUND {цей Збір коштів} COLLECTIVE {цей колектив} ORGANIZATION {цю Організацію} other {цей обліковий запис}}?",
   "archive.modal.header": "Архівувати {name}",
-  "as": "Delete Member",
   "Attachment.Private": "Це вкладення приватне",
   "AttachReceipt": "Прикріпити відсутню квитанцію",
   "AttachReceiptInstructions": "Це стягнення було автоматично створено з операцій з вашої кредитної картки, у ньому відсутні фотографія та опис квитанції. Будь ласка, відредагуйте цей рахунок і додайте відсутні дані.",

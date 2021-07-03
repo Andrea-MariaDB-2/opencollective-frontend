@@ -109,7 +109,6 @@
   "appRejectionReason.placeholder": "Perché questa richiesta è stata respinta?",
   "archive.account.confirmation": "Sei sicuro di voler archiviare {type, select, EVENT {questo evento} PROJECT {questo progetto} FUND {questo finanziamento} COLLECTIVE {questo collettivo} ORGANIZATION {questa organizzazione} other {questo account}}?",
   "archive.modal.header": "Archivia {name}",
-  "as": "Delete Member",
   "Attachment.Private": "Questo allegato è privato",
   "AttachReceipt": "Allega ricevuta mancante",
   "AttachReceiptInstructions": "Questo addebito è stato generato automaticamente dalle tue transazioni tramite carta di credito. Manca la foto della ricevuta e la descrizione. Modifica questa spesa e aggiungi le informazioni mancanti.",

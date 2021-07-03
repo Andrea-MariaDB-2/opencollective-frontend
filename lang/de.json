@@ -109,7 +109,6 @@
   "appRejectionReason.placeholder": "Why is this application being rejected?",
   "archive.account.confirmation": "Bist du sicher, dass du {type, select, EVENT {diese Veranstaltung} PROJECT {dieses Projekt} FUND {diesen Fonds} COLLECTIVE {dieses Kollektiv} ORGANIZATION {diese Organisation} other {dieses Konto}} archivieren möchtest?",
   "archive.modal.header": "Archiviere {name}",
-  "as": "Delete Member",
   "Attachment.Private": "Dieser Anhang ist privat",
   "AttachReceipt": "Fehlende Quittung anhängen",
   "AttachReceiptInstructions": "This charge was automatically created from your credit card transactions and is missing its receipt photograph and description. Please edit this expense and add the missing information.",
